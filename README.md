@@ -2,7 +2,7 @@
 <h1 align="center">MY GITHUB ACCOUNT : <a href="https://github.com/mashrur-rahman-fahim"> Mashrur Rahman</a>
 <h3 align="center">A passionate web and app developer</h3>
 
-![Profile](https://komarev.com/ghpvc/?username=mashrur-rahman-fahim)
+
 
 
 
