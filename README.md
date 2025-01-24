@@ -8,18 +8,18 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 ---
 
 ## 🚀 About Me
+![Rocket Animation](https://media.giphy.com/media/26xBqKwdTG2JcbD3K/giphy.gif)
 
-- 💻 **Full-stack web developer** with a focus on modern technologies.  
-- 🎮 **Avid gamer** who loves to explore new games.  
-- 🌱 Always learning and experimenting with new coding techniques.  
-- 🔭 Currently working on **[Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)**.  
+- 💻 **Full-stack web developer** with a focus on modern technologies.
+- 🎮 **Avid gamer** who loves to explore new games.
+- 🌱 Always learning and experimenting with new coding techniques.
+- 🔭 Currently working on **[Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)**.
 - 📚 Passionate about problem-solving and building meaningful solutions.
-
-![Developer GIF](https://media.giphy.com/media/8gA8fCl9PAfja/giphy.gif)
 
 ---
 
-## 🛠️ Technologies I Use
+## 🛠️ Technologies I Use  
+![Tech Animation](https://media.giphy.com/media/2Jwnunv35TxlH6ZtAq/giphy.gif)
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -32,39 +32,35 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
-![Tech GIF](https://media.giphy.com/media/4Zo41lhzKt6iZ8XJg6/giphy.gif)
-
 ---
 
-## 🌟 Key Projects
+## 🌟 Key Projects  
+![Project Animation](https://media.giphy.com/media/YyF3UO9z91L6MIYg3k/giphy.gif)
 
 ### [Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)  
 **A resource coordination and management system for strategic defense operations.**  
 - **Features:** User Authentication, Resource Management, Notifications, Audit Logs.  
-- **Tech Stack:** Laravel, MySQL, Next.js.  
-![Project 1 GIF](https://media.giphy.com/media/3o6fIZuWj0PqRZfsy4/giphy.gif)
+- **Tech Stack:** Laravel, MySQL, Next.js.
 
 ### [Uni-Craft](https://github.com/mashrur-rahman-fahim/Uni-Craft)  
 **A Flutter-based application for seamless project management.**  
 - **Features:** Intuitive UI, Collaboration, Real-time Updates.  
-- **Tech Stack:** Flutter, Firebase.  
-![Project 2 GIF](https://media.giphy.com/media/26tP1hNHrdd7kI0a8/giphy.gif)
+- **Tech Stack:** Flutter, Firebase.
 
 ### [Expression Conversion and Evaluation](https://github.com/mashrur-rahman-fahim/Expression-conversion-and-evaluation)  
 **A tool for converting and evaluating mathematical expressions.**  
 - **Features:** Support for multiple notations, Accurate evaluations.  
-- **Tech Stack:** C++.  
-![Project 3 GIF](https://media.giphy.com/media/l0MYt5jPR6Qb8fxOE/giphy.gif)
+- **Tech Stack:** C++.
 
 ### [Spiderman Ultimate](https://github.com/mashrur-rahman-fahim/Spiderman-Ultimate)  
 **An engaging game developed using iGraphics.**  
 - **Features:** Action-packed gameplay, Interactive UI.  
-- **Tech Stack:** C, iGraphics.  
-![Project 4 GIF](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
+- **Tech Stack:** C, iGraphics.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+![Stats Animation](https://media.giphy.com/media/3o7aD2saRMXeymUpPi/giphy.gif)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mashrur-rahman-fahim&show_icons=true&theme=radical" />
@@ -77,7 +73,8 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let's Connect!  
+![Connect Animation](https://media.giphy.com/media/l4KhJ9H3RmCB2cEem/giphy.gif)
 
 <p align="center">
   <a href="mailto:mashrur.rahman.fahim@gmail.com">
@@ -91,13 +88,11 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
   </a>
 </p>
 
-![Connect GIF](https://media.giphy.com/media/8ugO5V5D9x61C/giphy.gif)
-
 ---
 
-## 💡 Inspiration
+## 💡 Inspiration  
+![Inspiration Animation](https://media.giphy.com/media/3o6Zt0kTP8Hw6pn8Ve/giphy.gif)
 
 <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
 
 ---
-
