@@ -59,8 +59,9 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mashrur-rahman-fahim&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mashrur-rahman-fahim&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
