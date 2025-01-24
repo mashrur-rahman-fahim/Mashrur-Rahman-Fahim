@@ -7,7 +7,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 🚀 About Me
+## 🚀 ![About Me](https://img.shields.io/badge/🚀%20About%20Me-brightgreen?style=for-the-badge&logo=none)
 
 - 💻 **Full-stack web developer** with a focus on modern technologies.
 - 🎮 **Avid gamer** who loves to explore new games.
@@ -95,7 +95,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ```md
 <!-- Animation start -->
-![About Me](https://img.shields.io/badge/🚀%20About%20Me-brightgreen?style=for-the-badge&logo=none)
+
 <!-- Animation end -->
 
 <!-- Animation start -->
