@@ -91,9 +91,3 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino" width="250" height="auto" />
 </p>
-
----
-
-## 🐍 Contributions Snake
-
-![Snake animation](https://github.com/mashrur-rahman-fahim/mashrur-rahman-fahim/blob/output/github-contribution-grid-snake.svg)
