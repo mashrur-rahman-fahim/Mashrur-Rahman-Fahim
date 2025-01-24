@@ -50,7 +50,12 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 ### [Spiderman Ultimate](https://github.com/mashrur-rahman-fahim/Spiderman-Ultimate)  
 **An engaging game developed using iGraphics.**  
 - **Features:** Action-packed gameplay, Interactive UI.  
-- **Tech Stack:** C, iGraphics.  
+- **Tech Stack:** C, iGraphics.
+
+### [Enchantment](https://github.com/mashrur-rahman-fahim/Enchantment)  
+**A mystical game that combines adventure and puzzle-solving in a magical world.**  
+- **Features:** Engaging storylines, Interactive puzzles, and enchanting visuals.  
+- **Tech Stack:** Unity, C#, Visual Studio.  
 
 ---
 
