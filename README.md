@@ -1,22 +1,23 @@
 # 👋 Hi there, I'm Mashrur Rahman Fahim!  
 
-![Header Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=Hi,+I'm+Mashrur+Rahman+Fahim!;Full-Stack+Developer+%7C+Gamer+🎮;Problem+Solver+%7C+Tech+Enthusiast)
+![Coder GIF](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)  
+![Gaming GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
 
-I'm a passionate **web developer** who loves **coding** and **gaming**! I build awesome web applications and enjoy exploring games in my free time.  
+I'm a passionate **web developer** who loves **coding** and **gaming**! I build awesome web applications and enjoy playing video games during my free time.  
 
 ---
 
-## ![About Me Animation](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&color=%230D6EFD&size=40&duration=4000&pause=400&center=false&vCenter=true&lines=%F0%9F%9A%80+Welcome+to+About+Me)
+## 🚀 About Me  
 
-- 💻 **Full-stack web developer** with expertise in modern technologies.  
-- 🎮 **Avid gamer** who enjoys discovering new games and challenges.  
-- 🌱 Always learning and experimenting with emerging tech trends.  
+- 💻 **Full-stack web developer** with a focus on modern technologies.  
+- 🎮 **Avid gamer** who loves to explore new games.  
+- 🌱 Always learning and experimenting with new coding techniques.  
 - 🔭 Currently working on **[Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)**.  
-- 📚 Passionate about solving problems and building impactful solutions.  
+- 📚 Passionate about problem-solving and building meaningful solutions.  
 
 ---
 
-## ![Technologies I Use Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2334D399&size=35&center=false&vCenter=true&width=600&lines=%F0%9F%94%A0+Technologies+I+Love+to+Use)
+## 🛠️ Technologies I Use  
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,11 +35,30 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## ![GitHub Stats Animation](https://readme-typing-svg.herokuapp.com?font=MonteCarlo&color=%23FACC15&size=36&center=false&vCenter=true&width=600&height=70&lines=%F0%9F%93%8A+GitHub+Stats+and+Activity)
+## 🌟 Key Projects  
+
+### [Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)  
+**A resource coordination and management system for strategic defense operations.**  
+- **Features:** User Authentication, Resource Management, Notifications, Audit Logs.  
+- **Tech Stack:** Laravel, MySQL, Next.js.  
+
+### [Uni-Craft](https://github.com/mashrur-rahman-fahim/Uni-Craft)  
+**A Flutter-based application for seamless project management.**  
+- **Features:** Intuitive UI, Collaboration, Real-time Updates.  
+- **Tech Stack:** Flutter, Firebase.  
+
+### [Spiderman Ultimate](https://github.com/mashrur-rahman-fahim/Spiderman-Ultimate)  
+**An engaging game developed using iGraphics.**  
+- **Features:** Action-packed gameplay, Interactive UI.  
+- **Tech Stack:** C, iGraphics.  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mashrur-rahman-fahim&show_icons=true&theme=blueberry" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mashrur-rahman-fahim&theme=blueberry" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mashrur-rahman-fahim&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mashrur-rahman-fahim&theme=radical" />
 </p>
 
 <p align="center">
@@ -47,23 +67,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## ![Fun Animations Animation](https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23E11D48&size=40&center=false&vCenter=true&width=600&lines=%F0%9F%A4%AC+Fun+and+Interactive+Animations)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino" width="250" height="auto" />
-  <br>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="350" height="auto"/>
-</p>
-
----
-
-## ![Inspiration Animation](https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&color=%2300D9E5&size=35&center=false&vCenter=true&width=600&lines=%E2%9C%A8+Words+that+Inspire+Me)
-
-<i>"The only way to do great work is to love what you do." – Steve Jobs</i>  
-
----
-
-## ![Let's Connect Animation](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&color=%234ADE80&size=36&center=false&pause=500&vCenter=true&width=600&lines=%E2%9C%8C%EF%B8%8F+Let's+Connect+and+Collaborate)
+## 🌐 Let's Connect!  
 
 <p align="center">
   <a href="mailto:mashrur.rahman.fahim@gmail.com">
@@ -78,5 +82,18 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
   <a href="https://twitter.com/mashrurfahim">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-</p>
+</p>  
 
+---
+
+## 💡 Inspiration  
+
+<i>"The only way to do great work is to love what you do." – Steve Jobs</i>  
+
+---
+
+## 🎉 Fun Animations  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino" width="250" height="auto" />
+</p>
