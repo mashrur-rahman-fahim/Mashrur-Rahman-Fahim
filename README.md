@@ -1,4 +1,5 @@
-# 👋  ![Header Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=Hi,+I'm+Mashrur+Rahman!;Full-Stack+Developer+%7C+Gamer+🎮;Problem+Solver+%7C+Tech+Enthusiast)
+# 👋  
+![Header Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=Hi,+I'm+Mashrur+Rahman!;Full-Stack+Developer+%7C+Gamer+🎮;Problem+Solver+%7C+Tech+Enthusiast)
 
 
 ![Coder GIF](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)  
