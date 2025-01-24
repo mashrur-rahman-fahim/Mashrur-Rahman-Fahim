@@ -1,26 +1,22 @@
 # 👋 Hi there, I'm Mashrur Rahman Fahim!  
 
-![Header Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236CF72E&size=30&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;Gamer+%7C+Problem+Solver;Open+Source+Enthusiast;Welcome+to+My+World!+%F0%9F%91%8B)
+![Header Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=Hi,+I'm+Mashrur+Rahman+Fahim!;Full-Stack+Developer+%7C+Gamer+🎮;Problem+Solver+%7C+Tech+Enthusiast)
 
-I'm a passionate **web developer** who loves **coding** and **gaming**! I build awesome web applications and enjoy playing video games during my free time.  
+I'm a passionate **web developer** who loves **coding** and **gaming**! I build awesome web applications and enjoy exploring games in my free time.  
 
 ---
 
-## 🚀 About Me  
+## ![About Me Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=🚀+About+Me)
 
-![About Me Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236CF72E&size=30&center=true&vCenter=true&width=450&lines=About+Me)
-
-- 💻 **Full-stack web developer** with a focus on modern technologies.  
-- 🎮 **Avid gamer** who loves to explore new games.  
-- 🌱 Always learning and experimenting with new coding techniques.  
+- 💻 **Full-stack web developer** with expertise in modern technologies.  
+- 🎮 **Avid gamer** who enjoys discovering new games and challenges.  
+- 🌱 Always learning and experimenting with emerging tech trends.  
 - 🔭 Currently working on **[Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)**.  
-- 📚 Passionate about problem-solving and building meaningful solutions.  
+- 📚 Passionate about solving problems and building impactful solutions.  
 
 ---
 
-## 🛠️ Technologies I Use  
-
-![Technologies I Use Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236CF72E&size=30&center=true&vCenter=true&width=450&lines=Technologies+I+Use)
+## ![Technologies I Use Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=🛠️+Technologies+I+Use)
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,34 +34,34 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 🌟 Key Projects  
+## ![Key Projects Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=🌟+Key+Projects)
 
-![Key Projects Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236CF72E&size=30&center=true&vCenter=true&width=450&lines=Key+Projects)
-
-### [Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)  
+### 🛡️ [Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)  
 **A resource coordination and management system for strategic defense operations.**  
 - **Features:** User Authentication, Resource Management, Notifications, Audit Logs.  
 - **Tech Stack:** Laravel, MySQL, Next.js.  
 
-### [Uni-Craft](https://github.com/mashrur-rahman-fahim/Uni-Craft)  
+---
+
+### 📝 [Uni-Craft](https://github.com/mashrur-rahman-fahim/Uni-Craft)  
 **A Flutter-based application for seamless project management.**  
 - **Features:** Intuitive UI, Collaboration, Real-time Updates.  
 - **Tech Stack:** Flutter, Firebase.  
 
-### [Spiderman Ultimate](https://github.com/mashrur-rahman-fahim/Spiderman-Ultimate)  
+---
+
+### 🕹️ [Spiderman Ultimate](https://github.com/mashrur-rahman-fahim/Spiderman-Ultimate)  
 **An engaging game developed using iGraphics.**  
 - **Features:** Action-packed gameplay, Interactive UI.  
 - **Tech Stack:** C, iGraphics.  
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236CF72E&size=30&center=true&vCenter=true&width=450&lines=GitHub+Stats)
+## ![GitHub Stats Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=📊+GitHub+Stats)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mashrur-rahman-fahim&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mashrur-rahman-fahim&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mashrur-rahman-fahim&show_icons=true&theme=blueberry" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mashrur-rahman-fahim&theme=blueberry" />
 </p>
 
 <p align="center">
@@ -74,9 +70,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 🌐 Let's Connect!  
-
-![Let's Connect Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236CF72E&size=30&center=true&vCenter=true&width=450&lines=Let%27s+Connect)
+## ![Let's Connect Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=🌐+Let's+Connect)
 
 <p align="center">
   <a href="mailto:mashrur.rahman.fahim@gmail.com">
@@ -95,18 +89,16 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 💡 Inspiration  
-
-![Inspiration Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236CF72E&size=30&center=true&vCenter=true&width=450&lines=Inspiration)
+## ![Inspiration Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=💡+Inspiration)
 
 <i>"The only way to do great work is to love what you do." – Steve Jobs</i>  
 
 ---
 
-## 🎉 Fun Animations  
-
-![Fun Animations Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236CF72E&size=30&center=true&vCenter=true&width=450&lines=Fun+Animations)
+## ![Fun Animations Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=🎉+Fun+Animations)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino" width="250" height="auto" />
+  <br>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="350" height="auto"/>
 </p>
