@@ -92,8 +92,8 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;">🎉 Fun Animations</p>  
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;">🎉 Interactive Animations</p>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino" width="250" height="auto" />
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="350" height="auto"/>
 </p>
