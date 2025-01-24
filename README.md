@@ -19,7 +19,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ## 🛠️ Technologies I Use
 
-<p>
+<p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -43,11 +43,6 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 **A Flutter-based application for seamless project management.**  
 - **Features:** Intuitive UI, Collaboration, Real-time Updates.  
 - **Tech Stack:** Flutter, Firebase.
-
-### [Expression Conversion and Evaluation](https://github.com/mashrur-rahman-fahim/Expression-conversion-and-evaluation)  
-**A tool for converting and evaluating mathematical expressions.**  
-- **Features:** Support for multiple notations, Accurate evaluations.  
-- **Tech Stack:** C++.
 
 ### [Spiderman Ultimate](https://github.com/mashrur-rahman-fahim/Spiderman-Ultimate)  
 **An engaging game developed using iGraphics.**  
@@ -88,3 +83,17 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 ## 💡 Inspiration
 
 <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
+
+---
+
+## 🎉 Fun Animations
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino" width="250" height="auto" />
+</p>
+
+---
+
+## 🐍 Contributions Snake
+
+![Snake animation](https://github.com/mashrur-rahman-fahim/mashrur-rahman-fahim/blob/output/github-contribution-grid-snake.svg)
