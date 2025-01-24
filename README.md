@@ -52,10 +52,11 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 - **Features:** Action-packed gameplay, Interactive UI.  
 - **Tech Stack:** C, iGraphics.
 
-### [Enchantment](https://github.com/mashrur-rahman-fahim/Enchantment)  
-**A mystical game that combines adventure and puzzle-solving in a magical world.**  
-- **Features:** Engaging storylines, Interactive puzzles, and enchanting visuals.  
-- **Tech Stack:** Unity, C#, Visual Studio.  
+### [Enchant_Tech](https://github.com/mashrur-rahman-fahim/Enchant_Tech)  
+**An e-commerce platform for selling laptop computers.**  
+- **Features:** Product listing, Cart management, User authentication, Payment integration.  
+- **Tech Stack:** MongoDB, Express, React, Node.js (MERN).
+
 
 ---
 
