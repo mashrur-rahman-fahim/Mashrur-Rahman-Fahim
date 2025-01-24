@@ -1,6 +1,6 @@
-### Hi there, I'm Mashrur Rahman Fahim! 👋
+# Hi there, I'm Mashrur Rahman Fahim! 👋
 
-![Header](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Welcome Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
 
