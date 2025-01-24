@@ -1,5 +1,4 @@
-#   ![Header Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=Hi,+I'm+Mashrur+Rahman!;Full-Stack+Developer+%7C+Gamer+🎮;Problem+Solver+%7C+Tech+Enthusiast)
-
+# ![Header Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300ADEF&size=30&center=false&vCenter=true&width=600&lines=Hi,+I'm+Mashrur+Rahman!;Full-Stack+Developer+%7C+Gamer+🎮;Problem+Solver+%7C+Tech+Enthusiast)
 
 ![Coder GIF](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)  
 ![Gaming GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
@@ -8,7 +7,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 🚀 About Me  
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;">🚀 About Me</p>
 
 - 💻 **Full-stack web developer** with a focus on modern technologies.  
 - 🎮 **Avid gamer** who loves to explore new games.  
@@ -18,7 +17,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 🛠️ Technologies I Use  
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;">🛠️ Technologies I Use</p>  
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,7 +35,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 🌟 Key Projects  
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;">🌟 Key Projects</p>
 
 ### [Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)  
 **A resource coordination and management system for strategic defense operations.**  
@@ -55,7 +54,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 📊 GitHub Stats  
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;">📊 GitHub Stats</p>  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mashrur-rahman-fahim&show_icons=true&theme=radical" />
@@ -68,7 +67,7 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 🌐 Let's Connect!  
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;">🌐 Let's Connect!</p>  
 
 <p align="center">
   <a href="mailto:mashrur.rahman.fahim@gmail.com">
@@ -87,13 +86,13 @@ I'm a passionate **web developer** who loves **coding** and **gaming**! I build 
 
 ---
 
-## 💡 Inspiration  
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;">💡 Inspiration</p>  
 
 <i>"The only way to do great work is to love what you do." – Steve Jobs</i>  
 
 ---
 
-## 🎉 Fun Animations  
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;">🎉 Fun Animations</p>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino" width="250" height="auto" />
