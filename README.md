@@ -1,16 +1,20 @@
-# Hi there, I'm Mashrur Rahman Fahim! 👋
-
-![Welcome Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hi there, I'm Mashrur Rahman Fahim! 🌊
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=18BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Flutter+Developer;Computer+Science+Enthusiast" alt="Typing SVG">
+  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="50" alt="Wave Animation">
+  <br>
+  <strong>Welcome to my GitHub Profile!</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=18BCF7&center=true&vCenter=true&lines=Passionate+Developer;Flutter+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="https://github.com/mashrur-rahman-fahim">
-    <img src="https://komarev.com/ghpvc/?username=mashrur-rahman-fahim&label=Profile+Views&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=mashrur-rahman-fahim&label=Profile+Views&color=brightgreen" alt="Profile Views" />
   </a>
 </p>
 
@@ -21,7 +25,8 @@
 - 🔭 I’m currently working on **[Strategic Defense Operations](https://github.com/mashrur-rahman-fahim/StrategicDefenseOps)**.
 - 🌱 I’m currently learning **Flutter**, **Data Structures**, and **Algorithms**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-- ⚡ Fun fact: I love solving puzzles and exploring new technologies!
+- 💡 I enjoy solving problems and building innovative solutions.
+- ⚡ Fun fact: I’m a coffee enthusiast who codes best with a fresh brew! ☕
 
 ---
 
@@ -30,6 +35,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue" />
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C" />
+  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=orange" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow" />
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=black" />
   <img src="https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7" />
 </p>
